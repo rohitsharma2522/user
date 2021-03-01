@@ -1,0 +1,10 @@
+com\nagarro\user\services\UserServices.class
+com\nagarro\user\UserApplication.class
+com\nagarro\user\entities\Users.class
+com\nagarro\user\entities\ProviderDetailsWithBooking.class
+com\nagarro\user\controller\UserController$1.class
+com\nagarro\user\controller\UserController.class
+com\nagarro\user\entities\Address.class
+com\nagarro\user\entities\ServiceProviderEntity.class
+com\nagarro\user\services\impl\UserServicesImpl.class
+com\nagarro\user\entities\UserService.class
