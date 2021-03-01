@@ -42,7 +42,7 @@ public class UserController {
     public List<UserService> getAllServices(@RequestParam("pincode") Optional<Integer> pincode) throws JsonMappingException, JsonProcessingException {
     	String url = "";
     	if(!pincode.isPresent()) {
-    		url = "/admin/getAllServices";
+    		url = "/admin/getallservices";
     	}else {
     		url = "/admin/services/"+pincode.get();
     	}
